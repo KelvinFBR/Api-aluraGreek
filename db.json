@@ -11,7 +11,7 @@
       "nombre": "Producto XYZ",
       "precio": "60.00",
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "starwars1.png",
+      "imagen": "https://i.imgur.com/MtQn0zP.png",
       "categoria": "StarWars",
       "id": "s1"
     },
@@ -19,7 +19,7 @@
       "nombre": "Producto XYZ",
       "precio": "60.00",
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "starwars2.png",
+      "imagen": "https://i.imgur.com/RPPvIkI.png",
       "categoria": "StarWars",
       "id": "s2"
     },
@@ -27,7 +27,7 @@
       "nombre": "Producto XYZ",
       "precio": "60.00",
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "starwars3.png",
+      "imagen": "https://i.imgur.com/43D8WtY.png",
       "categoria": "StarWars",
       "id": "s3"
     },
@@ -35,7 +35,7 @@
       "nombre": "Producto XYZ",
       "precio": "60.00",
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "starwars4.png",
+      "imagen": "https://i.imgur.com/eMvOd9F.png",
       "categoria": "StarWars",
       "id": "s4"
     },
@@ -43,7 +43,7 @@
       "nombre": "Producto XYZ",
       "precio": "60.00",
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "starwars5.png",
+      "imagen": "https://i.imgur.com/kkPW4EM.png",
       "categoria": "StarWars",
       "id": "s5"
     },
@@ -51,7 +51,7 @@
       "nombre": "Producto XYZ",
       "precio": "60.00",
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "starwars6.png",
+      "imagen": "https://i.imgur.com/yEf71lk.png",
       "categoria": "StarWars",
       "id": "s6"
     },
@@ -59,7 +59,7 @@
       "nombre": "Control XYZ",
       "precio": "60.00",
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "consolas1.png",
+      "imagen": "https://i.imgur.com/K5sKSdt.png",
       "categoria": "Consolas",
       "id": "c1"
     },
@@ -67,7 +67,7 @@
       "nombre": "Control y consola XYZ",
       "precio": "60.00",
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "consolas2.png",
+      "imagen": "https://i.imgur.com/EZxHvKG.png",
       "categoria": "Consolas",
       "id": "c2"
     },
@@ -75,7 +75,7 @@
       "nombre": "Consola XYZ",
       "precio": "60.00",
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "consolas3.png",
+      "imagen": "https://i.imgur.com/6Tl3E47.png",
       "categoria": "Consolas",
       "id": "c3"
     },
@@ -83,7 +83,7 @@
       "nombre": "Control XYZ",
       "precio": "60.00",
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "consolas4.png",
+      "imagen": "https://i.imgur.com/NLz3S6H.png",
       "categoria": "Consolas",
       "id": "c4"
     },
@@ -91,7 +91,7 @@
       "nombre": "Consola XYZ",
       "precio": "60.00",
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "consolas5.png",
+      "imagen": "https://i.imgur.com/jMFkVpj.png",
       "categoria": "Consolas",
       "id": "c5"
     },
@@ -99,7 +99,7 @@
       "nombre": "Consola XYZ",
       "precio": "60.00",
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "consolas6.png",
+      "imagen": "https://i.imgur.com/6JwiIvv.png",
       "categoria": "Consolas",
       "id": "c6"
     },
@@ -107,7 +107,7 @@
       "nombre": "Camisa Atari",
       "precio": "60.00",
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "diversos1.png",
+      "imagen": "https://i.imgur.com/Z2kxJTZ.png",
       "categoria": "Diversos",
       "id": "d1"
     },
@@ -115,7 +115,7 @@
       "nombre": "Camisa SNES",
       "precio": "60.00",
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "diversos2.png",
+      "imagen": "https://i.imgur.com/CVrAGDa.png",
       "categoria": "Diversos",
       "id": "d2"
     },
@@ -123,7 +123,7 @@
       "nombre": "Control y consola",
       "precio": "60.00",
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "diversos3.png",
+      "imagen": "https://i.imgur.com/w32jKud.png",
       "categoria": "Diversos",
       "id": "d3"
     },
@@ -131,15 +131,15 @@
       "nombre": "Control y consola",
       "precio": "60.00",
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "diversos4.png",
+      "imagen": "https://i.imgur.com/dUUYNky.png",
       "categoria": "Diversos",
       "id": "d4"
     },
     {
-      "nombre": "Control y consola",
+      "nombre": "Producto XYZ",
       "precio": "60.00",
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "diversos5.png",
+      "imagen": "https://i.imgur.com/vCOJL6u.png",
       "categoria": "Diversos",
       "id": "d5"
     },
@@ -147,7 +147,7 @@
       "nombre": "Producto XYZ",
       "precio": "60.00",
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "diversos6.png",
+      "imagen": "https://i.imgur.com/ilZffan.png",
       "categoria": "Diversos",
       "id": "d6"
     }
