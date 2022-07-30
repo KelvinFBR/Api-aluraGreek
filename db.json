@@ -3,7 +3,6 @@
     {
       "email": "alurageek@alura.com",
       "password": "Admin",
-      "autentificacion": false,
       "id": 1
     }
   ],
